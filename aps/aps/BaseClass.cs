@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace aps
 {
-    class Program
+    public class BaseClass
     {
-        static void Main(string[] args)
+        public string CriadoPor { get; set; }
+        public BaseClass(string CriadoPor)
         {
-            Factory f = new Factory();
-            Bilhete b = f.GetInstance<Bilhete>("Main");
+            this.CriadoPor = CriadoPor;
         }
     }
 }

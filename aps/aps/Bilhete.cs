@@ -6,8 +6,12 @@ using System.Threading.Tasks;
 
 namespace aps
 {
-    public class Bilhete
+    public class Bilhete:BaseClass
     {
+        public Bilhete(string criador):base(criador)
+        {
+
+        }
         public string Identificador { get; set; }
         public string Veiculo { get; set; }
         public DateTime HoraEntrada { get; set; }

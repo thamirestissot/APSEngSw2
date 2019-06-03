@@ -1,0 +1,7 @@
+C:\Users\D1NS\source\repos\APSEngSw2\aps\aps\bin\Debug\aps.exe.config
+C:\Users\D1NS\source\repos\APSEngSw2\aps\aps\bin\Debug\aps.exe
+C:\Users\D1NS\source\repos\APSEngSw2\aps\aps\bin\Debug\aps.pdb
+C:\Users\D1NS\source\repos\APSEngSw2\aps\aps\obj\Debug\aps.csprojAssemblyReference.cache
+C:\Users\D1NS\source\repos\APSEngSw2\aps\aps\obj\Debug\aps.csproj.CoreCompileInputs.cache
+C:\Users\D1NS\source\repos\APSEngSw2\aps\aps\obj\Debug\aps.exe
+C:\Users\D1NS\source\repos\APSEngSw2\aps\aps\obj\Debug\aps.pdb
