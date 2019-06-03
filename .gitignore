@@ -341,3 +341,5 @@ healthchecksdb
 bin/
 obj/
 Debug/
+*.suo
+*.user
