@@ -6,8 +6,12 @@ using System.Threading.Tasks;
 
 namespace aps
 {
-    public class Estacionamento
+    public class Estacionamento:BaseClass
     {
+        public Estacionamento(string criador):base(criador)
+        {
+
+        }
         public List<Dia> Calendario { get; set; }
         public List<Box> Boxes { get; set; }
         public List<string> Funcionarios { get; set; }
